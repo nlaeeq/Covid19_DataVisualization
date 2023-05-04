@@ -6,6 +6,8 @@ The project is conducted to visualize the global impact of the **COVID-19 pandem
 
 The observations obtained from [**data exploration phase**](https://nlaeeq.github.io/Covid19_DataExploration/) and [**data cleaning phase**](https://nlaeeq.github.io/Covid19_DataCleaning/) have been used to create an effective and interactive **COVID-19 dashboard**.
 
+The data visualization presents a comprehensive overview of the worldwide effects of the pandemic, utilizing a user-friendly format that enables both policymakers and general public to comprehend it with ease.
+
 <br>
 
 ### DATASET OVERVIEW:
@@ -32,13 +34,13 @@ The data displays the top 10 countries that have highest number of infection cas
 
 On the right side of the dashboard is the entire view of the world map where you can hover over each country in order to view the infection rate with respect to its population.
 
-The data visualization presents a comprehensive overview of the worldwide effects of the pandemic, utilizing a user-friendly format that enables both policymakers and general public to comprehend it with ease.
+Below is the picture of the dashboard that I have created in Tableau.
 
-Below is the picture of the dashboard that I have created.
+<br>
 
 ![Covid-19 Dashboard](images/Covid19 Dashboard.png)
 
-You can check my dashboard on Tableau. [Here is a link to it](https://public.tableau.com/views/Covid-19DataVisualization_16831468357880/Dashboard1?)
+To interact with the COVID-19 Dashboard. [**Click Here**](https://public.tableau.com/views/Covid-19DataVisualization_16831468357880/Dashboard1?)
 
 <br>
 
