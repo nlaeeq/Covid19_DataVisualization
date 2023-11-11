@@ -22,7 +22,7 @@ Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Gia
 
 ### INITIAL WORKING:
 
-This project will visualize the **Covid-19** data from **3rd January 2020 to 29th March 2023**. As we cannot open the SQL file directly into Tableau, therefore I have saved the results obtained from SQL queries into four different Excel files that I will be using for visualization purpose. The files have been attached in my Github repository.
+This project will visualize the **Covid-19** data from **3rd January 2020 to 29th March 2023**. The results obtained from SQL queries have been saved into Excel files and imported in Tableau, that I will be using for visualization purpose.
 
 <br>
 
